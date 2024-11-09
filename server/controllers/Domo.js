@@ -1,8 +1,8 @@
-const makerPage = (req, res) =>{
-    res.render('app');
-}
+const makerPage = (req, res) => {
+  res.render('app');
+};
 
-//exports
+// exports
 module.exports = {
-    makerPage,
-}
+  makerPage,
+};
